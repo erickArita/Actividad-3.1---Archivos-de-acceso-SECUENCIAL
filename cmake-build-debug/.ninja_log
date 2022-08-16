@@ -1,0 +1,8 @@
+# ninja log v5
+1	241	6823836953876566	build.ninja	818d6dd168a02c32
+3	370	6823752447255650	CMakeFiles/Actividad_3_1___Archivos_de_acceso_SECUENCIAL.dir/main.cpp.obj	98669be10564c02b
+409	540	6823835906200595	Actividad_3_1___Archivos_de_acceso_SECUENCIAL.exe	57813336705febe5
+5	409	6823824357978205	CMakeFiles/Actividad_3_1___Archivos_de_acceso_SECUENCIAL.dir/juego.cpp.obj	d1359b66380f6ddd
+3	409	6823835904960522	CMakeFiles/Actividad_3_1___Archivos_de_acceso_SECUENCIAL.dir/admin.cpp.obj	463de5bad9653f10
+2	244	6823836953876566	build.ninja	818d6dd168a02c32
+3	166	6823836956226557	Actividad_3_1___Archivos_de_acceso_SECUENCIAL.exe	ace791aace94eab6

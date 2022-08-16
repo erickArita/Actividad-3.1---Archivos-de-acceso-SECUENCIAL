@@ -1,0 +1,6 @@
+﻿cmake_minimum_required(VERSION 3.22)
+project(Actividad_3_1___Archivos_de_acceso_SECUENCIAL)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(Actividad_3_1___Archivos_de_acceso_SECUENCIAL juego.cpp)
